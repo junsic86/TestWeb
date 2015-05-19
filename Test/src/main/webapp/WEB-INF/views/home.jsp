@@ -2,7 +2,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home222</title>
+	<title>Home ver1.6</title>
 </head>
 <body>
 <h1>
